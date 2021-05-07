@@ -1,0 +1,45 @@
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\bin\Debug\Radiostancija.exe.config
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\bin\Debug\Radiostancija.exe
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\bin\Debug\Radiostancija.pdb
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.Form1.resources
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.Form2.resources
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.Properties.Resources.resources
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.csproj.GenerateResource.cache
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.exe
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.pdb
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\bin\Debug\MetroFramework.dll
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.Form3.resources
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.Form4.resources
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.csproj.CopyComplete
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.csprojAssemblyReference.cache
+C:\Users\kobia\source\repos\Radiostancija\Radiostancija\obj\Debug\Radiostancija.Form5.resources
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\bin\Debug\Radiostancija.exe.config
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\bin\Debug\Radiostancija.exe
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\bin\Debug\Radiostancija.pdb
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csprojAssemblyReference.cache
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form1.resources
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form2.resources
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form3.resources
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form4.resources
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form5.resources
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Properties.Resources.resources
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csproj.GenerateResource.cache
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csproj.CoreCompileInputs.cache
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csproj.CopyComplete
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.exe
+D:\Павел\Учеба\ТРПО\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.pdb
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\bin\Debug\Radiostancija.exe.config
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\bin\Debug\Radiostancija.exe
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\bin\Debug\Radiostancija.pdb
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csprojAssemblyReference.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form1.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form2.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form3.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form4.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Form5.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.Properties.Resources.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csproj.GenerateResource.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csproj.CoreCompileInputs.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.csproj.CopyComplete
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.exe
+D:\Павел\Учеба\Проекты с учебы на C#\Реализованный шаблон-программа Кобяк Павел\Radiostancija Кобяк Павел\Radiostancija\obj\Debug\Radiostancija.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Radiostancija.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Процессор" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Процессор</Value>
+    </Setting>
+    <Setting Name="CPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">% загруженности процессора</Value>
+    </Setting>
+    <Setting Name="_Total" Type="System.String" Scope="User">
+      <Value Profile="(Default)">_Total</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
